@@ -13,7 +13,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Example Entry Format:
 
-### Entry 1 - [mar 29, 2026, 8:00PM]
+### Entry 1 - [Mar 29, 2026, 8:00PM]
 **What I did**: set up github repository
 
 **Details**: 
